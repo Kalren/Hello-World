@@ -1,2 +1,4 @@
 # Hello-World
-The Begining
+The Beginning
+
+A few lines have been added.
